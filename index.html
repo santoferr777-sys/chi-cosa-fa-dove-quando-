@@ -1,0 +1,28 @@
+# chi-cosa-fa-dove-quando-
+/index.html
+<!DOCTYPE html>
+<html lang="it">
+<head>
+  <meta charset="UTF-8">
+  <title>Chi? Cosa fa? Dove? Quando?</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Chi? Cosa fa? Dove? Quando?</h1>
+
+  <div id="game">
+    <p id="instructions">Scrivi la tua parte della frase:</p>
+    <textarea id="inputText" placeholder="Scrivi qui..." rows="3"></textarea>
+    <br>
+    <button id="submitBtn">Invia</button>
+  </div>
+
+  <div id="result" style="display:none;">
+    <h2>Frase completata:</h2>
+    <p id="finalPhrase"></p>
+    <button onclick="location.reload()">Gioca ancora</button>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
