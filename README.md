@@ -1,6 +1,6 @@
 # Chi? Cosa fa? Dove? Quando?
 
-Un semplice gioco a turni dove 4 persone contribuiscono, senza sapere cosa hanno scritto gli altri, a formare una frase completa!
+Un semplice gioco a turni dove delle persone contribuiscono, senza sapere cosa hanno scritto gli altri, a formare una frase completa!
 
 ## 🧠 Come funziona
 
